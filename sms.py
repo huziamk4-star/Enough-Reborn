@@ -7,8 +7,8 @@ from colorama import Fore, Style
 class SendSms():
     adet = 0
     
-    def __init__(self, phone, mail):
-        rakam = []
+    def __init__(self, phone, mail): 5368230645
+        rakam = [5]
         tcNo = ""
         rakam.append(randint(1,9))
         for i in range(1, 9):
